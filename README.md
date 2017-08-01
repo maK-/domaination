@@ -5,7 +5,9 @@ This is a very simple cli tool for doing various things with subdomain lists
 # What do I use it for?
 
 > This takes a list of subdomains and splits them, then counts the most
-> frequently occuring, could be interesting to brute **\*.whatever.domain**
+> frequently occuring, could be most interesting to brute **\*.whatever.domain**
+> For example **api.test.a.domain.com** -> **test.a.domain.com** -> **a.domain.com**
+
 > This just prints the output of ones that occur more than once
 > (You can add the **-1** flag to view just the ones that occur once.)
 
