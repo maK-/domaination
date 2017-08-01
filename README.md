@@ -2,7 +2,7 @@
 This is a very simple cli tool for doing various things with subdomain lists
 >I just threw a few various shell scripts I had into the one tool
 
-#What do I use it for?
+# What do I use it for?
 
 > This takes a list of subdomains and splits them, then counts the most
 > frequently occuring, could be interesting to brute **\*.whatever.domain**
