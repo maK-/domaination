@@ -11,7 +11,7 @@ This is a very simple cli tool for doing various things with subdomain lists
 
 `./domaination.py -l [sublist] -g`
 
-> This takes that list and a list of already found subdomains and a list of
+> This takes a list of already found subdomains and a list of
 > individual words/subdomains and generates a list to then be resolved.
 
 `./domaination.py -l [sublist] -g -s [wordlist]`
